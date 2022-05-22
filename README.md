@@ -1,2 +1,2 @@
 # LinguagemPython
-Primeiros passos com a linguagem Python
+Fundamentos da linguagem Python.
